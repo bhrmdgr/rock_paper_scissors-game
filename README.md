@@ -1,16 +1,41 @@
-# rock_paper_scissors
+# ✊🖐✌️ Rock Paper Scissors – Flutter Game
 
-A new Flutter project.
+A simple **Rock Paper Scissors** game built with **Flutter**.  
+This project was developed during my Flutter learning journey as a fun way to practice and explore the framework.
 
-## Getting Started
+## 🎮 About the Game
 
-This project is a starting point for a Flutter application.
+This is a classic **Rock Paper Scissors** game that supports:
+- 🎯 **Single-player mode** (against the computer)
+- 👥 **Two-player mode** 
 
-A few resources to get you started if this is your first Flutter project:
+It's designed with clean UI and basic game logic to demonstrate interactivity and Flutter state management.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Select between single-player or two-player mode
+- Instant winner detection and result display
+- Score tracking 
+- Simple and colorful UI
+
+## 🖼️ Screenshots
+![Ekran görüntüsü 2024-08-19 162238](https://github.com/user-attachments/assets/816a7852-af25-4eed-8a56-67ccc1010505)
+
+
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+
+## 🧑‍💻 Author
+
+Developed by [Behram Dogru] as a practice project while learning Flutter.
+
+## 📌 Note
+
+This project was created for educational purposes and does not include advanced AI logic. The computer opponent makes random choices.
+
+##
+
+
