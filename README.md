@@ -19,7 +19,7 @@ It's designed with clean UI and basic game logic to demonstrate interactivity an
 - Simple and colorful UI.
 
 ## 🖼️ Screenshots
-![Ekran görüntüsü 2024-08-19 162238](https://github.com/user-attachments/assets/816a7852-af25-4eed-8a56-67ccc1010505)
+![Ekran görüntüsü 2024-08-19 162238](https://github.com/user-attachments/assets/816a7852-af25-4eed-8a56-67ccc1010505).
 
 
 
