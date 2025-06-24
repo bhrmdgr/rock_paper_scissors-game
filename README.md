@@ -13,10 +13,10 @@ It's designed with clean UI and basic game logic to demonstrate interactivity an
 
 ## 🚀 Features
 
-- Select between single-player or two-player mode.
-- Instant winner detection and result display.
-- Score tracking .
-- Simple and colorful UI.
+- Select between single-player or two-player mode
+- Instant winner detection and result display
+- Score tracking 
+- Simple and colorful UI
 
 ## 🖼️ Screenshots
 ![Ekran görüntüsü 2024-08-19 162238](https://github.com/user-attachments/assets/816a7852-af25-4eed-8a56-67ccc1010505).
